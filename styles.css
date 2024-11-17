@@ -54,14 +54,15 @@ border-radius: 25%;
 
             .about p {
             width:50%;
-            text-align: center;
+            text-align: left;
             margin: auto;
             line-height: 125%;
+            color:rgb(255, 255, 255)
             }
 
             .about img {
-            width: 150px;
+            width: 200px;
             height: 200px;
-            border-radius: 25%;
+            border-radius: 30%;
             border: 2px solid rgb(70, 123, 236);
             }
