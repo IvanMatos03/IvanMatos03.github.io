@@ -8,6 +8,10 @@ h1 {
     color:rgb(49, 33, 190);
 }
 
+h3 {
+    text-align: center;
+}
+
 .projects { 
     display:flex; 
     flex-wrap:wrap; 
