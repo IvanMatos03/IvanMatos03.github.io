@@ -2,15 +2,21 @@ body {
     background-color: rgb(121, 124, 129);
     font-family: Arial, Helvetica, sans-serif;
 }
+
 h1 {
     text-align: center;
     color:rgb(49, 33, 190);
+}
+
+h3 {
+    text-align: center;
 }
 
 .projects { 
     display:flex; 
     flex-wrap:wrap; 
 } 
+
 .project {
 width: 30%;
 margin: 10px;
@@ -18,22 +24,26 @@ padding: 20px 10px;
 background: rgb(39, 73, 124); 
 border-radius: 25%;
 }
+
 .project img{
     width: 500px;
     height: 300px;
     margin: 10px;
-    border: 2px solid rgb(49, 33, 190); 
+    border: 2px solid rgb(255, 255, 255); 
     display: block;
     margin: auto;
     }
+
     a { /* change the appearance of ALL links */
         text-decoration: none;
-        color: rgb(49, 33, 190);
+        color: rgb(197, 72, 197);
         }
+
         .project p { /* change the appearance of paragraph tags inside .project divs */
         text-align: center;
         margin: 15px;
         }
+
         .about{
             display:flex;
             flex-wrap:wrap;
@@ -41,15 +51,18 @@ border-radius: 25%;
             margin-left: 100px;
             justify-content: center;
             }
+
             .about p {
             width:50%;
             text-align: center;
             margin: auto;
             line-height: 125%;
+            color:rgb(255, 255, 255)
             }
+
             .about img {
-            width: 150px;
+            width: 200px;
             height: 200px;
-            border-radius: 25%;
-            border: 2px solid rgb(126, 14, 201);
+            border-radius: 30%;
+            border: 2px solid rgb(70, 123, 236);
             }
