@@ -17,7 +17,7 @@ h3 {
     flex-wrap:wrap; 
 } 
 
-.project {
+.projects {
 width: 30%;
 margin: 10px;
 padding: 20px 10px;
@@ -25,7 +25,7 @@ background: rgb(39, 73, 124);
 border-radius: 25%;
 }
 
-.project img{
+.projects img{
     width: 500px;
     height: 300px;
     margin: 10px;
@@ -39,7 +39,7 @@ border-radius: 25%;
         color: rgb(197, 72, 197);
         }
 
-        .project p { /* change the appearance of paragraph tags inside .project divs */
+        .projects p { /* change the appearance of paragraph tags inside .project divs */
         text-align: center;
         margin: 30px;
         }
