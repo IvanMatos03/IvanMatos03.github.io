@@ -1,13 +1,12 @@
 body {
-    background-color: rgb(189, 199, 226);
+    background-color: rgb(121, 124, 129);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     text-align: center;
-    color:rgb(197, 72, 197);
+    color:rgb(49, 33, 190);
 }
-
 
 h3 {
     text-align: center;
@@ -24,18 +23,14 @@ margin: 10px;
 padding: 20px 10px;
 background: rgb(39, 73, 124); 
 border-radius: 25%;
-color:rgb(255, 255, 255);
-}
-
-.projects p{
-    color: rgb(255, 255, 255);
+color:rgb(255, 255, 255)
 }
 
 .projects img{
     width: 500px;
     height: 300px;
     margin: 10px;
-    border: 2px solid rgb(197, 72, 197; 
+    border: 2px solid rgb(255, 255, 255); 
     display: block;
     margin: auto;
     }
